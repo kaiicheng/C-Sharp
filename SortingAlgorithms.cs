@@ -95,7 +95,7 @@ public class Test
 
 		foreach (int item in A)
 			Console.Write("{0} ", item);
-		Console.WriteLine();
+		Console.WriteLine(); 
 
 	}
 
